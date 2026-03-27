@@ -1,0 +1,15 @@
+C:\Users\natha\OneDrive\Desktop\friendsAndFamily\bin\Debug\net9.0\friendsAndFamily.exe
+C:\Users\natha\OneDrive\Desktop\friendsAndFamily\bin\Debug\net9.0\friendsAndFamily.deps.json
+C:\Users\natha\OneDrive\Desktop\friendsAndFamily\bin\Debug\net9.0\friendsAndFamily.runtimeconfig.json
+C:\Users\natha\OneDrive\Desktop\friendsAndFamily\bin\Debug\net9.0\friendsAndFamily.dll
+C:\Users\natha\OneDrive\Desktop\friendsAndFamily\bin\Debug\net9.0\friendsAndFamily.pdb
+C:\Users\natha\OneDrive\Desktop\friendsAndFamily\obj\Debug\net9.0\friendsAndFamily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Desktop\friendsAndFamily\obj\Debug\net9.0\friendsAndFamily.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Desktop\friendsAndFamily\obj\Debug\net9.0\friendsAndFamily.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Desktop\friendsAndFamily\obj\Debug\net9.0\friendsAndFamily.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Desktop\friendsAndFamily\obj\Debug\net9.0\friendsAndFamily.sourcelink.json
+C:\Users\natha\OneDrive\Desktop\friendsAndFamily\obj\Debug\net9.0\friendsAndFamily.dll
+C:\Users\natha\OneDrive\Desktop\friendsAndFamily\obj\Debug\net9.0\refint\friendsAndFamily.dll
+C:\Users\natha\OneDrive\Desktop\friendsAndFamily\obj\Debug\net9.0\friendsAndFamily.pdb
+C:\Users\natha\OneDrive\Desktop\friendsAndFamily\obj\Debug\net9.0\friendsAndFamily.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Desktop\friendsAndFamily\obj\Debug\net9.0\ref\friendsAndFamily.dll
